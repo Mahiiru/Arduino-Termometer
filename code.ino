@@ -30,6 +30,7 @@ float humi = 0.0;
 float temp = 0.0;
 
 // ========================================= VARIABEL =============================================
+//ganti
 unsigned long previousMillis = 0;
 const long interval = 5000;
 int resetButton = D0;
