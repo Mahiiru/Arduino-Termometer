@@ -15,6 +15,7 @@
 #include <Adafruit_SSD1306.h>
 
 // a[pkial size for 128x32]
+dfsgdfgdfg
 
 Adafruit_SSD1306 display = Adafruit_SSD1306(128, 32, &Wire);
 
